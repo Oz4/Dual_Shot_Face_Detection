@@ -1,0 +1,7 @@
+The implementation of the paper:
+https://github.com/hukkelas/DSFD-Pytorch-Inference
+
+to install the githup API for DSFD to work:
+pip install git+https://github.com/hukkelas/DSFD-Pytorch-Inference.git
+
+
